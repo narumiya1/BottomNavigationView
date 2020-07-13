@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavigationViews</string>
+    <string name="home">hoe</string>
+    <string name="search">search</string>
+    <string name="favorite">Favourite</string>
+    <string name="account">account</string>
+</resources>
